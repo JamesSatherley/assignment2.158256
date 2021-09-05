@@ -70,7 +70,7 @@ html,body {
 
 .about{
     height: 37%;
-    background-color: #82ffd5;
+    background-color: rgb(14, 209, 69);
     padding: 30px;
     text-align: center;
     padding-left: 13%;
@@ -125,7 +125,7 @@ html,body {
 
 .contact{
     height: 40%;
-    background-color: #e190ff;
+    background-color: rgb(255, 202, 24);
     padding-left: 25%;
     padding-right: 25%;
     padding-top: 5%;
