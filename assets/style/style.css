@@ -68,55 +68,55 @@ html,body {
     cursor: default;
 }
 
-.about{
+.history{
     height: 37%;
     background-color: rgb(14, 209, 69);
     padding: 30px;
     text-align: center;
     padding-left: 13%;
-}.about img.me {
+}.history img.art {
     float: left;
     height: 20%;
-    width: 20%;
     box-shadow: 5px 5px 8px #888888;
     margin-right: 100px;
-}.about .text{
+    margin-top: 2%;
+}.history .text{
     height: 25%;
     width: 80%;
-}.about .text h1{
+}.history .text h1{
     color: #383838;
     margin-top: 2%;
     font-family: 'Raleway', sans-serif;
     font-size: 50px;
-}.about .text h2{
+}.history .text h2{
     color: #383838;
     font-size: 20px;
     font-family: 'Raleway', sans-serif;
     cursor: default;
 }
 
-.cv{
+.tourism{
     height: 37%;
     background-color: #7cc0ff;
     padding: 30px;
     text-align: center;
     padding-left: 16%;
     padding-right: 14%;
-}.cv img.cv_img {
+}.tourism img.tourism_img {
     float: right;
-    height: 24%;
-    width: 24%;
+    height: 20%;
     box-shadow: 5px 5px 8px #888888;
-}.cv .text{
+    margin-top: 2%;
+}.tourism .text{
     height: 25%;
     width: 68%;
     margin-right: 50px;
-}.cv .text h1{
+}.tourism .text h1{
     color: #383838;
     margin-top: 2%;
     font-family: 'Raleway', sans-serif;
     font-size: 50px;
-}.cv .text h2{
+}.tourism .text h2{
     color: #383838;
     font-size: 20px;
     font-family: 'Raleway', sans-serif;
